@@ -21,7 +21,7 @@
     "execSync": "^1.0",
     "fs-extra": "^5.0.0",
     "git-url-parse": "^8.3.1",
-    "glob": "^7",
+    "glob": "^10.3.10",
     "is-there": "^4.4.3",
     "lodash": "^4.17.10",
     "rss": "^1.2",
